@@ -6,6 +6,16 @@ table, tr, td {
     border: 3px magenta;
 }
 
+tr, td {
+    padding: 15px;
+    margin: 10px;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
 img {
     height: 100px;
     width: 100px;
