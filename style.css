@@ -3,5 +3,11 @@
 }
 
 table, tr, td {
-    border: 3px gold;
+    border: 3px magenta;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+    margin: 15px;
 }
