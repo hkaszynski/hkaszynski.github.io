@@ -1,9 +1,13 @@
-#title, h1, h2 {
+#title, h1 {
     text-align: left;
 }
 
+h2 {
+    text-align: right;
+}
+
 table, tr, td {
-    border: 3px deep pink;
+    border: 3px colour: deep pink;
 }
 
 img {
