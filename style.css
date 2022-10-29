@@ -1,0 +1,7 @@
+#title, h1, h2 {
+    text-align: left;
+}
+
+table, tr, td {
+    border: 3px gold;
+}
