@@ -3,11 +3,11 @@
 }
 
 table, tr, td {
-    border: 3px green;
+    border: 3px solid green;
 }
 
 img {
     height: 100px;
     width: 100px;
-    margin: 15px;
+    margin: 10px;
 }
