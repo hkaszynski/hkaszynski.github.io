@@ -16,5 +16,6 @@ img {
 .apokalipsa {
     color: rgb(255,215,0);
     font: "Copperplate";
-    font-size: 15px;
+    font-weight: bold;
+    font-size: 30px;
 }
